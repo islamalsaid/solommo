@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<p align="left">Computer Science Student | Undergraduate Software Engineer | Competitive Programmer</p>
+<p align="left">Computer Science Student | Graduate Software Engineer | Competitive Programmer</p>
 
 ###
 
